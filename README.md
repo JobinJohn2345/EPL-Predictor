@@ -1,5 +1,7 @@
 # EPL-Predictor
 ##Overview of the EPL predictor
 
-This repository will include the scraping of data for the 2022-2023 season of the Engish Preimer League. 
+This is a python-based EPL predictor. This predictor includes various factors such as past results, shooting, free kicks, pentalty kicks, and distance that helps in predicting the outcome of each match.
+
+##Features
 
