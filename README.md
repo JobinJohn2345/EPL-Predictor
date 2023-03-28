@@ -1,4 +1,4 @@
-# EPL-Predictor
+# English Primer League Predictor
 ## Overview of the EPL predictor
 
 This is a python-based using a machine learning algorithm to predict upcoming EPL matches. This predictor includes various factors such as past results, shooting, free kicks, pentalty kicks, and distance that helps in predicting the outcome of each match.
