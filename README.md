@@ -16,7 +16,7 @@ The English Premier League, EPL, is the top professional soccer leagues in Engla
 
 To install the EPL predictor, follow these steps:
 
-1. Clone the repository to local machine.
+1. Copy the repository to local machine.
 2. Install the required python packages using script '*pip install -r requirements.txt*'
 3. Run '*predict.py*' script to generate predictions for upcoming EPL matches.
 
