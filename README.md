@@ -9,7 +9,7 @@ The English Premier League, EPL, is the top professional soccer leagues in Engla
 
 ## Features
 - Predicts upcoming EPL match results with a high degree of accuracy.
-- Provides detailed analysis of each match including shooting, free kicks, pentalty kicks, and distance
+- Provides detailed analysis of each match including shooting, free kicks, pentalty kicks, venue, and distance.
 - Provides a user-friendly interface for fans and bettors
 
 ## Installation
