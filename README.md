@@ -5,7 +5,7 @@ This is a python-based using a machine learning algorithm to predict upcoming EP
 
 ## EPL Background Information
 
-The English Premier League, EPL, is the top professional soccer leagues in England. The EPL was founded on 1992, which replaced 'Football League First Divison,' to become the top professional league in England while the 'Football League Championship' (the Football League First Division was rebranded to Football League Championship) became the second-tier of professional soccer league in England. The EPL consists of 20 teams including the most common such as Manchester City, Manchester United, Liverpool, and Arsenal among others.
+The English Premier League, EPL, is the top professional soccer leagues in England. The EPL was founded on 1992, which replaced 'Football League First Divison,' to become the top professional league in England while the 'Football League Championship' (the Football League First Division was rebranded to Football League Championship) became the second-tier of professional soccer league in England. The EPL consists of 20 teams including the most common such as Manchester City, Manchester United, Liverpool, and Arsenal among others. The format of the EPL is based on the points from competing against every opponent in the league two times over the course of the season. The EPL league champion is based on the most amount of points at the end of the season, while the three teams with the least amount of points are relegated to the second-tier. You make think about why the EPL decided to relegate the bottom three teams and it's.
 
 ## Features
 - Predicts upcoming EPL match results with a high degree of accuracy.
